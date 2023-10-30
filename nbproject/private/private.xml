@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/web/etudiantForm.jsp</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/web/machineByMarqueForm.jsp</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/web/style/css1.css</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/web/style/csslocal.css</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/web/machineByReferenceForm.jsp</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/web/machineForm.jsp</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/web/marqueForm.jsp</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/web/script/machineByReference.js</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/web/script/machineByMarque.js</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/src/java/ma/school/controller/MachineController.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/src/java/ma/school/controller/MachineByReferenceController.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/src/java/ma/school/service/EtudiantService.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/src/java/ma/school/service/MachineService.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/src/java/ma/school/service/MarqueService.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/src/java/ma/school/controller/MarqueController.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/src/java/ma/school/controller/MachineByMarqueController.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/src/java/ma/school/controller/EtudiantController.java</file>
+            <file>file:/C:/Users/SIMO%20LAAOUIBI/Desktop/tpAjax-main/src/java/ma/school/beans/Marque.java</file>
+        </group>
+    </open-files>
+</project-private>
